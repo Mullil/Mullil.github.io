@@ -4,7 +4,9 @@ layout: default
 
 ## Introduction
 
-<img src="assets/images/me.jpg" alt="Photo" hspace="20" width="30%" align="right"/> My name is Eetu Taatila and I'm a 21-year-old bachelor's student in theology in the University of Helsinki.In theology my interests are in biblical studies and the ancient near east. Besides theology and the ancient near east, I'm interested in computer science, language technology and linguistics. My hobbies include learning languages and going to the gym.
+<img src="assets/images/me.jpg" alt="Photo" hspace="20" width="30%" align="right"/> My name is Eetu Taatila and I'm a 21-year-old bachelor's student in theology in the University of Helsinki. In theology my interests are in biblical studies and the ancient near east. Besides theology and the ancient near east, I'm interested in computer science, language technology and linguistics. My hobbies include learning languages and going to the gym.
+
+[My CV](https://www.overleaf.com/read/rbdzsnntbffn#278188)
 
 ## Find me on
 
@@ -33,7 +35,7 @@ My email address is of the form eetu.taatila@helsinki.fi.
 ## Projects
 [Web application project](https://github.com/Mullil/teaching-application-project)
 
-This was my first web programming project. I made an application, where you can make courses for language learning. Right now it is very basic, but it could be develoepd further for better user experience. Personally, I have used this application to study words and cuneiform for an Akkadian course.
+This was my first web programming project. I made an application, where you can make courses for language learning. Right now it is very basic, but it could be developed further for better user experience. Personally, I have used this application to study words and cuneiform for an Akkadian course.
 
 [cmdline-course](https://github.com/Mullil/cmdline-course)
 
