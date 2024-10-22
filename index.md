@@ -4,7 +4,9 @@ layout: default
 
 ## Introduction
 
-<img src="assets/images/me.jpg" alt="Photo" hspace="20" width="30%" align="right"/> My name is Eetu Taatila and I'm a 21-year-old bachelor's student in theology in the University of Helsinki. In theology my interests are in biblical studies and the ancient near east. Besides theology and the ancient near east, I'm interested in computer science, language technology and linguistics. My hobbies include learning languages and going to the gym.
+![Image](https://as1.ftcdn.net/v2/jpg/02/34/21/76/1000_F_234217653_3ZdMe3GMyy0n9R8LZbjlNn1L7PveGjW9.jpg){: style="width:200px; height:auto;" }
+
+My name is Eetu Taatila and I'm a 21-year-old bachelor's student in theology in the University of Helsinki. In theology my interests are in biblical studies and the ancient near east. Besides theology and the ancient near east, I'm interested in computer science, language technology and linguistics. My hobbies include learning languages and going to the gym.
 
 [My CV](https://www.overleaf.com/read/rbdzsnntbffn#278188)
 
